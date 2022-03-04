@@ -1,0 +1,39 @@
+a{
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+
+body{
+    flex-direction: column;
+}
+
+.container1-header{
+    background-color: #1F2937;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+    padding: 10px;
+    padding-left: 15px;
+}
+
+.header-logo{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.container1-header, .container2, .container3, .container4, .container5, .container6-footer{
+    padding-left: 100px;
+    padding-right: 100px;
+}
