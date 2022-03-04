@@ -44,7 +44,11 @@ body{
 .c2s1-sign-up{
     background-color: #3882F6;
     color: white;
-    font-size: 24px;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 7px 25px;
+    border-radius: 10px;
+
 }
 
 ul{
