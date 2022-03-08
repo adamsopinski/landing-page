@@ -139,6 +139,8 @@ img{
     display: flex;
     justify-content: space-around;
     border-radius: 12px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .sign-up-button-box-2{
@@ -169,6 +171,19 @@ img{
 }
 
 /*---------------------------------------------------------------------------Container 6---------------------------------------------------------------------------------*/
+.container6-footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    color:#F9FAF8;
+    font-size: 18px;
+    padding: 20px;
+}
+
 
 /*---------------------------------------------------------------------------All containers---------------------------------------------------------------------------------*/
 .container1-header, .container2, .container3, .container4, .container5, .container6-footer{
